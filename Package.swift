@@ -5,7 +5,7 @@ import PackageDescription
 let package = Package(
     name: "ValidatedPropertyKit",
     platforms: [
-        .iOS(.v14),
+        .iOS(.v13),
         .tvOS(.v14),
         .watchOS(.v7),
         .macOS(.v11)
